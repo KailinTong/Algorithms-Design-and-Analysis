@@ -131,17 +131,17 @@ class Graph:
 # DFS
 
 if __name__ == "__main__":
-    # test
-    # g = Graph("jason_smko_last.txt")
-    # print(g)
-    # g_ = g.get_r_graph()
-    # g_.dfs_loop()
-    # print(g_.ft)
-    # g_ft = g.get_graph_from_mapping(g_.ft)
-    # print(g_ft.g)
-    # del g_, g
-    # g_ft.dfs_loop(step=2)
-    # print(g_ft.scc_size)
+    test
+    g = Graph("jason_smko_last.txt")
+    print(g)
+    g_ = g.get_r_graph()
+    g_.dfs_loop()
+    print(g_.ft)
+    g_ft = g.get_graph_from_mapping(g_.ft)
+    print(g_ft.g)
+    del g_, g
+    g_ft.dfs_loop(step=2)
+    print(g_ft.scc_size)
 
     # # real data
     # g = Graph("SCC.txt")
