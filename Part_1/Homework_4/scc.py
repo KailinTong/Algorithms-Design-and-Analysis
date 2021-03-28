@@ -131,7 +131,7 @@ class Graph:
 # DFS
 
 if __name__ == "__main__":
-    test
+    # test
     g = Graph("jason_smko_last.txt")
     print(g)
     g_ = g.get_r_graph()
