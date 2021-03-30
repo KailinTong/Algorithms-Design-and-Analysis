@@ -113,5 +113,5 @@ if __name__ == "__main__":
     # print(get_median_index(3, 6))
 
     # TODO: this code worked for question 1 and 2 but did not pass the third question, the reason is unknown.
-    #  I guess a better implementation will solve the problem. ref: https://github.com/sestus/algorithms-stanford
+    #  I guess a better implementation will solve the problem. ref: https://github.com/sestus/algorithms-stanfordK
     #  Improvement: using recursive function instead of recording pivot index
