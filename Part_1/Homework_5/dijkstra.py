@@ -71,4 +71,4 @@ if __name__ == "__main__":
     ds = DSearch("dijkstraData.txt")
     ds.saerch()
     print(ds.shortest_paths)
-    # TODO a few answers are wrong!!!
+
