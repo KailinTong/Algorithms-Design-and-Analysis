@@ -106,3 +106,5 @@ class TSP:
 if __name__ == "__main__":
     tsp = TSP('tsp.txt')
     print(tsp.solve_tsp())
+    # FIXME: my algorithm is too slow, I think it is because that  dict() takes up munch memories
+    # This implementation is much better: https://github.com/ChuntaoLu/Algorithms-Design-and-Analysis
